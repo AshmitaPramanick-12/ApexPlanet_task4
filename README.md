@@ -35,6 +35,16 @@ It showcases my portfolio, includes a To-Do app with `localStorage`, and a Produ
 - **FakeStore API**  
 
 ---
+## 📸 Screenshots  
+
+### Portfolio  
+![Portfolio](C:\Users\ASHMITA PRAMANICK\Desktop\apex\TASK_4\home.png)  
+
+### To-Do App  
+![To-Do](screenshots/todo.png)  
+
+### Product Store  
+![Store](screenshots/store.png)  
 
 
 
