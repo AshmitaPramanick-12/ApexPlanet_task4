@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>To-Do – Apex Task 4</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="container row" style="align-items:center;justify-content:space-between">
+      <div class="brand"><span class="dot"></span> Apex Planet • Task 4</div>
+      <nav class="tabs">
+        <a class="tab" href="portfolio.html">Portfolio</a>
+        <a class="tab active" href="todo.html">To-Do</a>
+        <a class="tab" href="store.html">Product Store</a>
+        <a class="tab" href="index.html">Home</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <section id="todo" class="card">
+      <h2>To-Do / Notes <span class="tag">localStorage</span></h2>
+      <div class="row">
+        <input id="todo-input" placeholder="Add a task… (hit Enter)" style="min-width:260px;flex:1" />
+        <button class="btn" id="add-btn">Add</button>
+        <select id="filter">
+          <option value="all">All</option>
+          <option value="active">Active</option>
+          <option value="completed">Completed</option>
+        </select>
+        <button class="btn ghost danger" id="clear-completed">Clear Completed</button>
+      </div>
+      <div id="todo-list" style="margin-top:14px;display:grid;gap:10px"></div>
+      <div id="todo-empty" class="todo-empty" hidden>No tasks yet. Add your first task above!</div>
+    </section>
+  </main>
+
+  <footer class="muted">Built with HTML • CSS • JavaScript — split version for Apex Planet Task 4.</footer>
+  <script src="script.js"></script>
+</body>
+</html>
