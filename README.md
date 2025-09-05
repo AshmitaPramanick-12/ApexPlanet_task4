@@ -37,17 +37,18 @@ It showcases my portfolio, includes a To-Do app with `localStorage`, and a Produ
 ---
 ## 📸 Screenshots  
 
-### Home page 
-![Home Page](<img width="1907" height="927" alt="home" src="https://github.com/user-attachments/assets/bb78cf51-3ff6-455b-adc7-c9783ecf0cca" />)
- 
+### Home Page
+![Home Page](https://github.com/user-attachments/assets/bb78cf51-3ff6-455b-adc7-c9783ecf0cca)
+
 ### Portfolio
-![Portfolio](<img width="1888" height="917" alt="image" src="https://github.com/user-attachments/assets/e99a9fdd-6178-43e6-a8dc-b1dc1323a4b8" />)
+![Portfolio](https://github.com/user-attachments/assets/e99a9fdd-6178-43e6-a8dc-b1dc1323a4b8)
 
-### To-Do App  
-![To-Do](<img width="1904" height="913" alt="image" src="https://github.com/user-attachments/assets/4ebb8957-7bcc-42af-bde2-a563292ac138" />)  
+### To-Do App
+![To-Do](https://github.com/user-attachments/assets/4ebb8957-7bcc-42af-bde2-a563292ac138)
 
-### Product Store  
-![Store](<img width="1876" height="922" alt="image" src="https://github.com/user-attachments/assets/4f9f549a-0674-4fde-b5fc-0e4d8241aa4a" />)  
+### Product Store
+![Store](https://github.com/user-attachments/assets/e1602d6e-be74-4d88-ade9-be1d4aec4c6a)
+
 
 
 
